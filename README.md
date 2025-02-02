@@ -1,1 +1,1 @@
-# Heart-Attack-Risk-Predictor-with-EvalML
+# Heart Attack Risk Predictor with EvalML
